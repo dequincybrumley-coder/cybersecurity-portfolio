@@ -1,5 +1,5 @@
 # Site settings
-title: DeQuincy Brumle
+title: DeQuincy Brumley
 email: dequincybrumley@gmail.com
 url: https://dequincybrumley-coder.github.io/cybersecurity-porfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
@@ -50,7 +50,7 @@ email:
   
 # Postal address (add as many lines as necessary)
 location:
-  - line: Dallas, Texas
+  - line: Dallas, Texas | Atlanta, Gerogia 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
